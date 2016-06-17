@@ -14,7 +14,7 @@ Hello World:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻➡️📤➡️📺▶️💬👋🌏❗💬◀️❗
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤴💻➡️🆗❗
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬆💻➡️🆗❗
 
 &nbsp;&nbsp;&nbsp;&nbsp;↩
 
@@ -24,22 +24,17 @@ Hello World:
 
 
 
+These are some basic symbols of the language:
+
 * 📦 represents "namespace"
-
 * 📐 represents "class"
-
 * 🔜🔚 represents {}
-
 * ▶️◀️ ️represents ()
-
 * 🔓,🔒,🔐 represents public, private, and protected
-
 * 📌 represents "static"
-
 * ️❗ represents ;
-
 * ➡️ represents ->
-
+* ⬆ represents return
 * ⚫ represents $ in the way it is used in PHP (as a way to avoid colliding with keywords)
 
 
@@ -51,13 +46,9 @@ String literals are defined within 💬
 
 
 native types:
-
 * 🔢  int
-
 * 🔠  string
-
 * 🅰  char
-
 * 📚  array (followed by subsequent type)
 
 
