@@ -1,40 +1,46 @@
+# ☕➕➕
+
 An entirely emoji-based programming language.
 
 
 
 Hello World:
 
-📦🌏🔜
+📦🌏⤵
 
- 📏🌏🔜
+&nbsp;&nbsp;📐🌏⤵
 
-  🔓📌🔢🏠▶️📚🔠⚫📫◀️🔜
+&nbsp;&nbsp;&nbsp;&nbsp;🔓📌🔢🏠▶️📚🔠⚫📫◀️⤵
 
-   💻➡️📤➡️🎦▶️💬👋🌏❗💬◀️❗
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻➡️📤➡️📺▶️💬👋🌏❗💬◀️❗
 
-  🔚
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤴💻➡️🆗❗
 
- 🔚
+&nbsp;&nbsp;&nbsp;&nbsp;↩
 
-🔚
+&nbsp;&nbsp;↩
+
+↩
 
 
 
-📦 represents "namespace"
+* 📦 represents "namespace"
 
-📏 represents "class"
+* 📐 represents "class"
 
-🔜🔚 represents {}
+* 🔜🔚 represents {}
 
-▶️◀️ ️represents ()
+* ▶️◀️ ️represents ()
 
-🔓,🔒,🔐 represents public, private, and protected
+* 🔓,🔒,🔐 represents public, private, and protected
 
-📌 represents "static"
+* 📌 represents "static"
 
-️❗ represents ;
+* ️❗ represents ;
 
-➡️ represents ->
+* ➡️ represents ->
+
+* ⚫ represents $ in the way it is used in PHP (as a way to avoid colliding with keywords)
 
 
 
@@ -46,16 +52,16 @@ String literals are defined within 💬
 
 native types:
 
-  🔢  int
+* 🔢  int
 
-  🔠  string
+* 🔠  string
 
-  🅰  char
+* 🅰  char
 
-  📚  array
+* 📚  array (followed by subsequent type)
 
 
 
 A library will be created.  One example of such a library's usage is:
 
- 💻➡️📤➡️🎦▶️◀️ which is similar to System.out.print()
+💻➡️📤➡️📺▶️◀️ which is similar to System.out.print()
