@@ -28,7 +28,7 @@ These are some basic symbols of the language:
 
 * 📦 represents "namespace"
 * 📐 represents "class"
-* 🔜🔚 represents {}
+* ⤵↩ represents {}
 * ▶️◀️ ️represents ()
 * 🔓,🔒,🔐 represents public, private, and protected
 * 📌 represents "static"
